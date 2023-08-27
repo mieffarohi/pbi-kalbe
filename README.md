@@ -42,3 +42,6 @@
  ![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/2fd5d2ed-6141-4860-92d9-8884ce0533e0)
 4. Worksheet 4: Jumlah penjualan (total amount) by store name
  ![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/4823778a-63e9-47ca-b082-c3edf0b8d141)
+## Membuat Dashboard di Tableau Public
+4 worksheet sebelumnya digabungkan dalam satu dashboard
+ ![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/820c9c5d-ba1f-4b0a-a347-e2a9a92bef51)
