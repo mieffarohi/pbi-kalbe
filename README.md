@@ -37,14 +37,18 @@
 1. Worksheet 1: Jumlah qty dari bulan ke bulan
    https://public.tableau.com/app/profile/ahmad.miftahul.farohi/viz/JumlahQuantitydariBulankeBulan/Sheet1?publish=yes 
  ![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/1ef704dc-d02c-4c5e-b9a3-6d939b633562)
-3. Worksheet 2: Jumlah total amount dari hari ke hari
+2. Worksheet 2: Jumlah total amount dari hari ke hari
+   https://public.tableau.com/app/profile/ahmad.miftahul.farohi/viz/TotalAmountPenjualandariHarikeHari/Sheet2?publish=yes
  ![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/a89808cd-26f3-46cd-a45f-ea3815f3346c)
-4. Worksheet 3: Jumlah penjualan (qty) by product
+3. Worksheet 3: Jumlah penjualan (qty) by product
+   https://public.tableau.com/app/profile/ahmad.miftahul.farohi/viz/JumlahQuantityPenjualanBerdasarkanProduk/Sheet3?publish=yes
  ![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/2fd5d2ed-6141-4860-92d9-8884ce0533e0)
-5. Worksheet 4: Jumlah penjualan (total amount) by store name
+4. Worksheet 4: Jumlah penjualan (total amount) by store name
+   https://public.tableau.com/app/profile/ahmad.miftahul.farohi/viz/TotalAmountPenjualanBerdasarkanStoreName/Sheet4?publish=yes
  ![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/4823778a-63e9-47ca-b082-c3edf0b8d141)
 ## Membuat Dashboard di Tableau Public
 4 worksheet sebelumnya digabungkan dalam satu dashboard
+  https://public.tableau.com/app/profile/ahmad.miftahul.farohi/viz/ProjectBasedInternDashboard/Dashboard1?publish=yes
  ![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/820c9c5d-ba1f-4b0a-a347-e2a9a92bef51)
 ## Pembuatan Model Prediktif
 ### 1. Import library dan data
