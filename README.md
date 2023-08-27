@@ -59,4 +59,10 @@
  ![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/505fea66-d87e-4368-8bd4-b470bd8e9e50)
 ### 4. Membuat model machine learning regression (time series)
  ![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/3a3fc296-d570-491c-b63c-20a57a7c3321)
+#### Pisahkan Data
  ![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/0ad042c1-8d59-4cdd-9016-503607915fe8)
+#### Model ARIMA
+ ![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/8b587629-786b-4cf1-adf4-c3cda46b9612)
+ ![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/2ec21951-c2e8-4b77-8de8-6ca1383d9116)
+#### Prediksi
+ ![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/ecca7842-3ba0-48e1-905b-00098a65627a)
