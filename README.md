@@ -49,6 +49,7 @@
 1. Import library dan data
  ![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/8e9cd93d-76d4-45ec-939e-43d846723f2d)
 2. Data cleansing and preparation
+   
  ![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/f4db66bd-d95d-422e-914d-14332be3cfe4)
  ![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/193f2e45-25f5-4f9a-9b27-8629f3dcf540)
  ![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/1e44fba9-b6cb-4567-ab87-2c9d66cc00b9)
