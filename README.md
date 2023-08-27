@@ -22,5 +22,11 @@
  ![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/0789688c-bdc1-4cf3-bc1e-bd45f9bd6830)
  ![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/df832ff3-0ed0-4a46-8267-508c7ed92c7f)
 2. Berapa rata-rata umur customer jika dilihat dari gendernya ?
-  - input query ![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/89042164-66fb-472b-b48b-0f113b6216bc)
-  - output query ![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/e44e116a-0d93-474f-a194-6fc41f9ebec7)
+ ![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/89042164-66fb-472b-b48b-0f113b6216bc)
+ ![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/e44e116a-0d93-474f-a194-6fc41f9ebec7)
+3. Tentukan nama store dengan total quantity terbanyak!
+ ![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/e93a2f18-b0c9-4323-a976-93ce9407ca0a)
+ ![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/1e4c6f22-0911-4855-895c-7192d5b99eb9)
+4. Tentukan nama produk terlaris dengan total amount terbanyak
+ ![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/fbf432a1-7a22-43ba-8762-db0900e03a57)
+ ![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/5ef928cb-7a4a-4b8f-bc59-ba93c407dd39)
