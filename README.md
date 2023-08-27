@@ -1,4 +1,4 @@
-# Final Project Data Science in Project Based Internship by Rakamin Academy X Kalbe Nutritionals
+![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/9e368292-111d-45ea-9cc8-ab08dd81c4b2)![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/8de59140-d096-4457-8f83-eb2a268056c4)# Final Project Data Science in Project Based Internship by Rakamin Academy X Kalbe Nutritionals
 ## Background Story
 - Kamu adalah seorang Data Scientist di Kalbe Nutritionals dan sedang mendapatkan project baru dari tim inventory dan tim marketing
 - Dari tim inventory, kamu diminta untuk dapat membantu memprediksi jumlah penjualan (quantity) dari total keseluruhan product Kalbe
@@ -30,3 +30,6 @@
 4. Tentukan nama produk terlaris dengan total amount terbanyak
  ![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/fbf432a1-7a22-43ba-8762-db0900e03a57)
  ![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/5ef928cb-7a4a-4b8f-bc59-ba93c407dd39)
+## Data Ingestion ke Tableau Public
+1. Impor data format ke Tableau Public
+ ![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/3a1f392c-257c-4529-b138-dd0b47700b16)
