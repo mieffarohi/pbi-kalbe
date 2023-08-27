@@ -36,3 +36,9 @@
 ## Membuat Visualisasi Data di Tableau Public
 1. Worksheet 1: Jumlah qty dari bulan ke bulan
  ![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/1ef704dc-d02c-4c5e-b9a3-6d939b633562)
+2. Worksheet 2: Jumlah total amount dari hari ke hari
+ ![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/a89808cd-26f3-46cd-a45f-ea3815f3346c)
+3. Worksheet 3: Jumlah penjualan (qty) by product
+ ![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/2fd5d2ed-6141-4860-92d9-8884ce0533e0)
+4. Worksheet 4: Jumlah penjualan (total amount) by store name
+ ![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/4823778a-63e9-47ca-b082-c3edf0b8d141)
