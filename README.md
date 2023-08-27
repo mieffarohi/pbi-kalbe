@@ -66,3 +66,55 @@
  ![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/2ec21951-c2e8-4b77-8de8-6ca1383d9116)
 #### Prediksi
  ![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/ecca7842-3ba0-48e1-905b-00098a65627a)
+### 5. Membuat machine learning clustering
+ ![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/b0ec1f54-67c4-4058-986f-0e8e00d87e91)
+#### Preparation dan Buat Clustering
+ ![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/2a99ed31-a86c-4382-88ba-6a889f050b63)
+#### Plotkan
+ ![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/8a0f8df1-ba47-4171-9241-aa73b097dec2)
+#### WCSS
+ ![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/cba0db10-783c-40b8-ad7d-466ba4151a53)
+ ![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/95e3c851-4628-4131-803a-66f9506fafa0)
+#### Metode Elbow/Siku
+ ![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/f573432d-53c7-4124-9673-652eaa0c725a)
+#### Model Clustering dengan K yang optimal
+ ![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/6f298cdd-f507-43c6-91d3-491ff44d453a)
+#### Masukan Cluster ke Dataset
+ ![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/e9faec61-2fbb-4846-af55-e9af081073c9)
+#### Plot Akhir
+ ![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/c960078f-28ca-491c-b709-effd3df160a5)
+ ![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/dd5f40e0-9191-492f-a084-1542cf5aa70f)
+#### Melihat Cluster Akhir
+ ![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/58d00427-db84-4967-9cf4-610220a66b59)
+## Kesimpulan
+**Cluster 1**
+- Cluster dengan jumlah pelanggan paling banyak.
+- Karakteristik dari cluster ini adalah cluster menempati posisi ketiga dari setiap metrik (transaction, quantity, total amount).
+
+Rekomendasi:
+- Membangun hubungan baik dengan pelanggan.
+- Melakukan survei untuk mengembangkan minat pelanggan terbanyak.
+
+**Cluster 2**
+- Karakteristik pelanggan yang menempati posisi kedua tertinggi pada setiap metrik.
+
+Rekomendasi:
+- Memberikan promo secara rutin untuk meningkatkan transaksi.
+- Melakukan peningkatan penjualan produk dengan harga tinggi.
+
+**Cluster 3**
+- Karakteristik pelanggan dengan nilai terendah pada setiap metriknya.
+
+Rekomendasi:
+- Memberikan diskon yang signifikan untuk meningkatkan transaksi pelanggan.
+- Menawarkan promo pada transaksi dengan jumlah barang yang lebih tinggi.
+- Melakukan survei untuk mengidentifikasi potensi pengembangan produk.
+
+**Cluster 0**
+- Cluster dengan jumlah pelanggan paling sedikit.
+- Karakteristik pelanggan dengan nilai tertinggi pada setiap metriknya.
+
+Rekomendasi:
+- Menawarkan program promo loyalitas untuk mempertahankan transaksi.
+- Melakukan survei kepuasan pelanggan.
+- Mendorong peningkatan penjualan produk dengan harga lebih tinggi.
