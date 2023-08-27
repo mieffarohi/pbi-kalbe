@@ -1,4 +1,4 @@
-![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/9e368292-111d-45ea-9cc8-ab08dd81c4b2)![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/8de59140-d096-4457-8f83-eb2a268056c4)# Final Project Data Science in Project Based Internship by Rakamin Academy X Kalbe Nutritionals
+![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/793332ba-94d4-43f5-90f8-8de01e76355c)# Final Project Data Science in Project Based Internship by Rakamin Academy X Kalbe Nutritionals
 ## Background Story
 - Kamu adalah seorang Data Scientist di Kalbe Nutritionals dan sedang mendapatkan project baru dari tim inventory dan tim marketing
 - Dari tim inventory, kamu diminta untuk dapat membantu memprediksi jumlah penjualan (quantity) dari total keseluruhan product Kalbe
@@ -33,3 +33,6 @@
 ## Data Ingestion ke Tableau Public
 1. Impor data format ke Tableau Public
  ![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/3a1f392c-257c-4529-b138-dd0b47700b16)
+## Membuat Visualisasi Data di Tableau Public
+1. Worksheet 1: Jumlah qty dari bulan ke bulan
+ ![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/1ef704dc-d02c-4c5e-b9a3-6d939b633562)
