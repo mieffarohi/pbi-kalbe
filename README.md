@@ -13,3 +13,7 @@
   - Tableau
   - Dbeaver
   - PostgreSQL
+## Melakukan Data Ingestion ke Dbeaver
+1. Menghubungkan dbeaver dengan postgreSQL
+2. Impor data format csv ke dbeaver
+![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/8a56a395-f2ad-454c-96c6-ae2e102d8bd7)
