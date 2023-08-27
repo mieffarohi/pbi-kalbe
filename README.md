@@ -1,4 +1,4 @@
-![image](https://github.com/mieffarohi/pbi-kalbe/assets/103298951/793332ba-94d4-43f5-90f8-8de01e76355c)# Final Project Data Science in Project Based Internship by Rakamin Academy X Kalbe Nutritionals
+# Final Project Data Science in Project Based Internship by Rakamin Academy X Kalbe Nutritionals
 ## Background Story
 - Kamu adalah seorang Data Scientist di Kalbe Nutritionals dan sedang mendapatkan project baru dari tim inventory dan tim marketing
 - Dari tim inventory, kamu diminta untuk dapat membantu memprediksi jumlah penjualan (quantity) dari total keseluruhan product Kalbe
